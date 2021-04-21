@@ -25,7 +25,7 @@ The application demonstrates how to build a chat application using:
 1. Clone the GitHub repository.
 
     ```bash
-    git clone https://github.com/pubnub/typescript-ref-app-team-chat.git
+    git clone https://github.com/vcybernext/typescript-ref-app-team-chat.git
     ```
 
 1. Install the project.
